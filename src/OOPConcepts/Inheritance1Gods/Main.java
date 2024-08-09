@@ -11,5 +11,6 @@ public class Main {
         human.attackOfADemigod();
         System.out.println("the name of human is :"+human.nameOfAHuman);
         human.attackOfAHuman();
+        
     }
 }

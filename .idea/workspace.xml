@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ca1550b-9058-43f0-9b4c-fbb951b4dbf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Inheritance1Gods/DemigodClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Inheritance1Gods/GodClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Inheritance1Gods/HumanClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Inheritance1Gods/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/Inheritance1Gods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPConcepts/Inheritance1Gods/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +28,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Java IntelliJ/OOPConcepts-Examples"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java IntelliJ/OOPConcepts-Examples&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPConcepts.Inheritance1Gods.Main" />

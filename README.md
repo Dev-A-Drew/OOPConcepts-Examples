@@ -1,0 +1,2 @@
+# OOPConcepts-Examples
+This is a repo where the concepts and examples about OOP will be displayed as code, please feel free to add or fix any type of error or concept, so we both can improve our knowledge

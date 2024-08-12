@@ -16,4 +16,5 @@ public class HumanClass extends DemigodClass{
     }
 
 
+
 }

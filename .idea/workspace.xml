@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ca1550b-9058-43f0-9b4c-fbb951b4dbf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Polimorfism1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Polimorfism1/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Polimorfism1/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Polimorfism1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Polimorfism1/Mammals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Encapsulation1Student/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Encapsulation1Student/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/Inheritance1Gods/HumanClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPConcepts/Inheritance1Gods/HumanClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +33,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Java IntelliJ/OOPConcepts-Examples&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Java IntelliJ/OOPConcepts-Examples"
   }
-}</component>
-  <component name="RunManager" selected="Application.OOPConcepts.Polimorfism1.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.OOPConcepts.Encapsulation1Student.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPConcepts.Inheritance1Gods.Main" />
       <module name="OOPConcepts-Examples" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="OOPConcepts.Inheritance1Gods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOPConcepts.Encapsulation1Student.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPConcepts.Encapsulation1Student.Main" />
+      <module name="OOPConcepts-Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPConcepts.Encapsulation1Student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOPConcepts.Encapsulation1Student.Main" />
         <item itemvalue="Application.OOPConcepts.Polimorfism1.Main" />
         <item itemvalue="Application.Main" />
       </list>

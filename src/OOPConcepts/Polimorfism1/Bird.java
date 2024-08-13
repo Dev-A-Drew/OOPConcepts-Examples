@@ -1,6 +1,6 @@
 package OOPConcepts.Polimorfism1;
 
-public class Bird extends  Animal{
+public class Bird extends Animal{
 
     boolean canFly;
     public Bird (String vertebrate, String nameAnimal, String typeAnimal, boolean fly)

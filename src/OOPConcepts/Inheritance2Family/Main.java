@@ -15,5 +15,7 @@ public class Main {
         paperA.paperInfo();
         System.out.println("\n");
         treeA.treeInfoAbout();
+        treeA.riskOfNature();
+
     }
 }

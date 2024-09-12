@@ -29,7 +29,6 @@ public class CameraClass extends ClassToSee{
 
     @Override
     public void blindView() {
-
     }
 
 

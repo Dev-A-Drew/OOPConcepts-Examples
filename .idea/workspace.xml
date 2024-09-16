@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ca1550b-9058-43f0-9b4c-fbb951b4dbf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface1/CircleShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface1/DrawableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface1/RotableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface1/ShapeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface1/SquareShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/Bulbasaur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/Charmander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/IAgua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/IElectric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/IFuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/IPlanta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/IntegratorClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/Pikachu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/PokemonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/Squirtle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface1/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +53,13 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Java IntelliJ/OOPConcepts-Examples&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPConcepts.AbstractionInterface1.Main" />
+  <component name="RunManager" selected="Application.IntegratorClass">
+    <configuration name="IntegratorClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPConcepts.AbstractionInterface2.IntegratorClass" />
       <module name="OOPConcepts-Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPConcepts.AbstractionInterface1.*" />
+          <option name="PATTERN" value="OOPConcepts.AbstractionInterface2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPConcepts.Abstraction1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPConcepts.Abstraction1.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPConcepts.AbstractionInterface1.Main" />
       <module name="OOPConcepts-Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPConcepts.Abstraction1.*" />
+          <option name="PATTERN" value="OOPConcepts.AbstractionInterface1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPConcepts.Inheritance2Family.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPConcepts.Inheritance2Family.Main" />
+    <configuration name="OOPConcepts.AbstractionInterface1.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPConcepts.AbstractionInterface1.main" />
       <module name="OOPConcepts-Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPConcepts.Inheritance2Family.*" />
+          <option name="PATTERN" value="OOPConcepts.AbstractionInterface1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntegratorClass" />
+        <item itemvalue="Application.OOPConcepts.AbstractionInterface1.main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.OOPConcepts.Abstraction2.Main" />
-        <item itemvalue="Application.OOPConcepts.Abstraction1.Main" />
-        <item itemvalue="Application.OOPConcepts.Inheritance2Family.Main" />
       </list>
     </recent_temporary>
   </component>

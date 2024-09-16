@@ -1,6 +1,6 @@
 package OOPConcepts.AbstractionInterface1;
 
-public class Main {
+public class main {
     static double ratioForCircle=2.2;
     static double aSide=5;
     public static void main(String[] args) {

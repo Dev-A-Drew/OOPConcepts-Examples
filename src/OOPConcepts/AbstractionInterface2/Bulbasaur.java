@@ -3,7 +3,7 @@ package OOPConcepts.AbstractionInterface2;
 public class Bulbasaur extends PokemonClass implements IPlanta{
 
     public Bulbasaur(){}
-    
+
 
     @Override
     protected void attackTackle() {

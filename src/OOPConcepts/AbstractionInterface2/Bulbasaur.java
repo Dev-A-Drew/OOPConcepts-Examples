@@ -4,6 +4,7 @@ public class Bulbasaur extends PokemonClass implements IPlanta{
 
     public Bulbasaur(){}
 
+
     @Override
     protected void attackTackle() {
         System.out.println("This is a Bulbasaur TACKLE attack");

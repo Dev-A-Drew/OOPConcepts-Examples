@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ca1550b-9058-43f0-9b4c-fbb951b4dbf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Association1to1/CarClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Association1to1/OwnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Association1to1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Composition1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Composition1/MotherBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/Composition1/PowerSupply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/Bulbasaur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPConcepts/AbstractionInterface2/Bulbasaur.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Java IntelliJ/OOPConcepts-Examples&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OOPConcepts.Association1to1.main">
+  <component name="RunManager" selected="Application.OOPConcepts.Composition1.Main">
     <configuration name="IntegratorClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPConcepts.AbstractionInterface2.IntegratorClass" />
       <module name="OOPConcepts-Examples" />
@@ -99,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPConcepts.Association1toN.main" />
+    <configuration name="OOPConcepts.Composition1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPConcepts.Composition1.Main" />
       <module name="OOPConcepts-Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPConcepts.Association1toN.*" />
+          <option name="PATTERN" value="OOPConcepts.Composition1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOPConcepts.Composition1.Main" />
         <item itemvalue="Application.OOPConcepts.Association1to1.main" />
         <item itemvalue="Application.IntegratorClass" />
         <item itemvalue="Application.OOPConcepts.AbstractionInterface1.main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
